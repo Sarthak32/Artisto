@@ -1,6 +1,6 @@
 # Artisto
 <p> Artisto is a full-stack web application built using the MERN stack.
-It utilizes AI image generation to replicate the style of a given image using the Stable Diffusion API.
+It utilizes AI image generation to replicate the style of a given image using Replicate AI's Stable Diffusion API.
  </p>
 
 ## Technologies Used
@@ -12,12 +12,12 @@ It utilizes AI image generation to replicate the style of a given image using th
 * Tailwind Css
 
 ## Usage
-* Upload an image to the Artisto web application
-* You can change a Image if you want another result
-* See some sample prompts by surprise me 
-* Click "Generate" to see the AI-generated image
-* Save the image to your device or share it on social media
-* Share on the platform itself for showcase to other users
+**1.** Upload an image to the Artisto web application.</br>
+**2.** You can change a Image if you want another result.</br>
+**3.** See some sample prompts by surprise me.</br> 
+**4.** Click "Generate" to see the AI-generated image.</br>
+**5.** Save the image to your device or share it on social media.</br>
+**6.** Share on the platform itself for showcase to other users.</br>
 
 ## Dekstop Preview :
 ![Screenshot (19)](https://user-images.githubusercontent.com/92269596/233174398-4555e841-9e7b-42db-8c9a-d1af4b68afb6.png)

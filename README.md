@@ -12,7 +12,7 @@ It utilizes AI image generation to replicate the style of a given image using Re
 * Tailwind Css
 
 ## Usage
-**1.** Upload an image to the Artisto web application.</br>
+**1.** Write any prompt to convert it to image.</br>
 **2.** You can change a Image if you want another result.</br>
 **3.** See some sample prompts by surprise me.</br> 
 **4.** Click "Generate" to see the AI-generated image.</br>
